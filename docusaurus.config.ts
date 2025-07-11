@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '프론트엔드 코어',
-  tagline: '프론트엔드 코어 톺아보기',
+  tagline: '프론트엔드 톺아보기',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
