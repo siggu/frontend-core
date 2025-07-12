@@ -1,8 +1,8 @@
 {
-  "label": "JavaScript Basics",
+  "label": "자바스크립트",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "자바스크립트에 대한 것을 알아보자."
+    "description": "자바스크립트에 대한 것을 알아보자. 이웅모 저자님의 책 모던 자바스크립트 Deep Dive를 기반으로 합니다."
   }
 }
